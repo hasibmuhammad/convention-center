@@ -17,3 +17,23 @@ body {
 .moment-title {
     color: #0A0826;
 }
+
+.mytoast {
+    position: fixed;
+    top: 60%;
+    right: 0;
+
+    border-left: 10px solid #007CFFA1;
+}
+
+.client-name, .client-designation {
+    font-size: 14px;
+}
+
+.my-card {
+    border: none;
+}
+
+.card-body p {
+    color: #6C6C6C;
+}
